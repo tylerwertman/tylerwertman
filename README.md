@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tylerwertman/tylerwertman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there my name is Tyler 👋
+
+- 🧠 I'm currently learning JavaScript
+- 🔭 I’m currently working on my website 🤣
+- 🧩 Some of my hobbies include 🥎 Pickup softball, 🕹 DIY/Electrical projects like GameBoy mods, 👨‍💻 Coding, & 🌲 Hiking
+- I enjoy 📺 watching ☀️It's Always Sunny in Philadelphia and 🎧 listening to Mac Miller
+- ⚡ Fun fact: I rarely drink caffiene and prefer green tea when I do
