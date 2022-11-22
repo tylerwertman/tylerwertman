@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Hi there my name is Tyler 👋
 
 - 🧠 I'm currently learning JavaScript
-- 🔭 I’m currently working on my website 🤣
-- 🧩 Some of my hobbies include 🥎 Pickup softball, 🕹 DIY/Electrical projects like GameBoy mods, 👨‍💻 Coding, & 🌲 Hiking
-- I enjoy 📺 watching ☀️It's Always Sunny in Philadelphia and 🎧 listening to Mac Miller
+- 🔭 I’m currently working on my website and coding bootcamp projects
+- 🧩 Some of my hobbies include 🥎 Pickup softball, 🕹 DIY/Electrical projects eg. Raspberry Pi, GameBoy mods, etc. 👨‍💻 Coding, & 🌲 Hiking
+- I enjoy 📺 watching 👨‍🔬Rick & Morty and 🎧 listening to Mac Miller
 - ⚡ Fun fact: I rarely drink caffiene and prefer green tea when I do
