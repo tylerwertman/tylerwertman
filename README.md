@@ -11,11 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on my website and coding bootcamp projects
+- I enjoy 📺 watching 👨‍🔬Rick & Morty and 🎧 listening to Mac Miller
+- ⚡ Fun fact: I rarely drink caffiene and prefer green tea when I do
+
 -->
+
 ### Hi there my name is Tyler 👋
 
 - 🧠 I'm currently learning JavaScript
-- 🔭 I’m currently working on my website and coding bootcamp projects
-- 🧩 Some of my hobbies include 🥎 Pickup softball, 🕹 DIY/Electrical projects eg. Raspberry Pi, GameBoy mods, etc. 👨‍💻 Coding, & 🌲 Hiking
-- I enjoy 📺 watching 👨‍🔬Rick & Morty and 🎧 listening to Mac Miller
-- ⚡ Fun fact: I rarely drink caffiene and prefer green tea when I do
+- 🧩 Some of my hobbies include 🥎 softball, 🕹 DIY & Electrical projects, 👨‍💻 Coding, & 🌲 Hiking
