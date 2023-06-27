@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 - 🧠 I'm currently learning JavaScript
 - 🧩 Some of my hobbies include 🛹 longboarding, 🕹 DIY & Electrical projects, 👨‍💻 Coding, & 🌲 Hiking
-- Check out my website, portfolio, and resume @ http://tylerw.xyz
+- Check out my website, portfolio, and resume @ https://tylerw.xyz
